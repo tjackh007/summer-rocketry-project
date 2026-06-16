@@ -10,6 +10,7 @@ June 2026
 - Created GitHub repository
 - Added initial README
 - Set up project documentation structure
+- Installed OpenRocket
 
 ## Current Status
 
@@ -17,7 +18,6 @@ Rocket ordered. Waiting for kit delivery before inventory and physical build ste
 
 ## Next Steps
 
-- Install OpenRocket
 - Locate or create rocket simulation file
 - Begin initial motor and stability research
 - Prepare inventory table for kit arrival
