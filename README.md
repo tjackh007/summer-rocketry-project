@@ -18,7 +18,7 @@ The goal of this project is to stay technically active over the summer, gain han
 
 ## Rocket Selected
 
-The selected rocket kit is a beginner-level LOC Precision rocket. The project will focus on safe assembly, simulation, and flight planning rather than custom motor or propellant development.
+The selected rocket kit is a beginner-level LOC Graduator Precision rocket. The project will focus on safe assembly, simulation, and flight planning rather than custom motor or propellant development.
 
 ## Tools and Software
 
@@ -27,7 +27,7 @@ The selected rocket kit is a beginner-level LOC Precision rocket. The project wi
 * Digital scale
 * Ruler or measuring tape
 * Basic hobby tools
-* Camera or phone for build documentation
+* Phone Camera for build documentation
 
 ## Project Deliverables
 
