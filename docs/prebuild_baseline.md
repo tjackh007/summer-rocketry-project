@@ -10,14 +10,15 @@ Any modifications, measurements, or deviations will be documented in the build l
 ## Model Source
 Official LOC Precision RockSim design file
 
-## Predicted Specifications
-- Overall length:
-- Body diameter:
-- Dry mass:
-- Center of gravity:
-- Center of pressure:
-- Stability margin:
-- Motor mount diameter:
+## Imported OpenRocket Baseline
+
+- Length: 102 cm
+- Maximum diameter: 6.68 cm
+- Mass without motor: 412 g
+- Center of gravity: 59.7 cm
+- Center of pressure: 81.2 cm
+- Stability margin: 3.23 calibers
+- Flight configuration: No motor installed
 
 ## Notes
 This represents the manufacturer's digital model before measuring or building the physical rocket.
