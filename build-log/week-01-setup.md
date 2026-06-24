@@ -16,8 +16,11 @@ June 2026
 
 Rocket ordered. Waiting for kit delivery before inventory and physical build steps begin.
 
-## Next Steps
+## June 24, 2026 — Pre-Build Setup
 
-- Locate or create rocket simulation file
-- Begin initial motor and stability research
-- Prepare inventory table for kit arrival
+- Downloaded and reviewed the LOC Graduator build instructions.
+- Imported the manufacturer `.rkt` file into OpenRocket.
+- Saved the manufacturer baseline as an `.ork` file.
+- Recorded baseline dimensions, mass, CG, CP, and stability.
+- Saved an OpenRocket baseline screenshot.
+- Noted the imported-model body-diameter warning.
