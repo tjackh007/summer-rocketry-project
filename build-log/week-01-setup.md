@@ -24,3 +24,41 @@ Rocket ordered. Waiting for kit delivery before inventory and physical build ste
 - Recorded baseline dimensions, mass, CG, CP, and stability.
 - Saved an OpenRocket baseline screenshot.
 - Noted the imported-model body-diameter warning.
+
+## June 26, 2026  
+## Kit Arrival and Inspection
+
+### Package Condition
+- Delivery date:
+- Box condition:
+- Visible damage:
+
+### Parts Inventory
+- [ ] 20-inch slotted booster
+- [ ] 10-inch payload section
+- [ ] Tube coupler
+- [ ] Bulkhead
+- [ ] Nose cone
+- [ ] 21-inch parachute
+- [ ] Two screw eyes
+- [ ] Kevlar shock cord mount
+- [ ] Elastic shock cord
+- [ ] 29 mm motor tube
+- [ ] Fin set
+- [ ] Two centering rings
+- [ ] Launch lug
+- [ ] Fire-resistant blanket
+
+### Initial Measurements
+- Total component mass:
+- Body tube diameter:
+- Booster length:
+- Payload-section length:
+- Motor-tube length:
+- Fin thickness:
+
+### Inspection Notes
+- Warped fins:
+- Crushed tubes:
+- Loose or damaged hardware:
+- Missing components:
