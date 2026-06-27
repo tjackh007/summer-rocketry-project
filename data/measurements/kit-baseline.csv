@@ -1,18 +1,18 @@
 stage,component,measurement,value,unit,required_for,measurement_notes
-PRE-BUILD,booster_tube,length,,mm,OpenRocket external geometry,Measure only the slotted booster tube.
-PRE-BUILD,booster_tube,outside_diameter,,mm,OpenRocket external geometry,Measure across the outside of the tube.
-PRE-BUILD,payload_tube,length,,mm,OpenRocket external geometry,Measure only the 10-inch payload tube.
-PRE-BUILD,payload_tube,outside_diameter,,mm,OpenRocket external geometry,Should match the booster tube; still verify it.
-PRE-BUILD,nose_cone,exposed_length,,mm,OpenRocket nose-cone geometry,Exclude the shoulder that slides inside the payload tube.
-PRE-BUILD,nose_cone,base_diameter,,mm,OpenRocket nose-cone geometry,Measure at the widest external point.
+PRE-BUILD,booster_tube,length,508,mm,OpenRocket external geometry,Measure only the slotted booster tube.
+PRE-BUILD,booster_tube,outside_diameter,66.8,mm,OpenRocket external geometry,Measure across the outside of the tube.
+PRE-BUILD,payload_tube,length,254,mm,OpenRocket external geometry,Measure only the 10-inch payload tube.
+PRE-BUILD,payload_tube,outside_diameter,66.8,mm,OpenRocket external geometry,Should match the booster tube; still verify it.
+PRE-BUILD,nose_cone,exposed_length,230,mm,OpenRocket nose-cone geometry,Exclude the shoulder that slides inside the payload tube.
+PRE-BUILD,nose_cone,base_diameter,66.8,mm,OpenRocket nose-cone geometry,Measure at the widest external point.
 PRE-BUILD,fin,root_chord,,mm,OpenRocket fin geometry,Length of the fin edge that meets the body tube.
 PRE-BUILD,fin,tip_chord,,mm,OpenRocket fin geometry,Length of the outer edge parallel to the root chord.
 PRE-BUILD,fin,span,,mm,OpenRocket fin geometry,Perpendicular distance from body tube to fin tip.
 PRE-BUILD,fin,sweep_length,,mm,OpenRocket fin geometry,Axial distance from the root leading edge to the tip leading edge.
 PRE-BUILD,fin,thickness,,mm,OpenRocket fin geometry,Measure one fin; verify the others are the same.
-PRE-BUILD,fin_set,aft_position,,mm,OpenRocket fin placement,Distance from the booster aft edge to the fin root trailing edge; enter 0 if flush.
-PRE-BUILD,motor_mount_tube,length,,mm,OpenRocket internal geometry,Measure the 29 mm motor-mount tube.
-PRE-BUILD,motor_mount_tube,outside_diameter,,mm,Motor compatibility check,Verify the nominal 29 mm mount.
+PRE-BUILD,fin_set,aft_position,0,mm,OpenRocket fin placement,Distance from the booster aft edge to the fin root trailing edge; enter 0 if flush.
+PRE-BUILD,motor_mount_tube,length,152,mm,OpenRocket internal geometry,Measure the 29 mm motor-mount tube.
+PRE-BUILD,motor_mount_tube,outside_diameter,30,mm,Motor compatibility check,Verify the nominal 29 mm mount.
 PRE-BUILD,parachute,diameter,,mm,OpenRocket descent simulation,"Measure fully opened, straight across the canopy."
 PRE-BUILD,complete_rocket_dry_fit,overall_length,,mm,Geometry verification,"Dry-fit booster, payload tube, and nose cone; measure aft end to nose tip."
 POST-BUILD,finished_rocket_no_motor,dry_mass,,g,OpenRocket mass override,"Include paint, adhesive, recovery system, and all installed hardware; exclude motor."
