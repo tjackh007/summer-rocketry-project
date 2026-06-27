@@ -25,7 +25,7 @@ Rocket ordered. Waiting for kit delivery before inventory and physical build ste
 - Saved an OpenRocket baseline screenshot.
 - Noted the imported-model body-diameter warning.
 
-## June 27, 2026 – Kit Arrival and Inventory
+## June 26, 2026 – Kit Arrival and Inventory
 
 - LOC Graduator kit received
 - Photographed unopened box and all components
@@ -33,6 +33,16 @@ Rocket ordered. Waiting for kit delivery before inventory and physical build ste
 - Inspected parts for visible damage
 - Completed initial dry fit
 - No adhesive applied
+
+## June 27, 2026 – Pre-Build Measurement Baseline
+
+Measurements were taken before sanding, cutting, or applying adhesive.
+
+- All principal components measured and weighed
+- Measurements stored in `data/measurements/kit-baseline.csv`
+- Components weighed outwith digital scale
+- Components photographed with a ruler for scale
+- Damage or fit concerns: None observed
   
 ## Kit Arrival and Inspection
 
