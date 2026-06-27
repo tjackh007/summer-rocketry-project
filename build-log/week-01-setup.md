@@ -54,14 +54,5 @@ Rocket ordered. Waiting for kit delivery before inventory and physical build ste
 - [x] 29 mm motor tube
 - [x] Fin set
 - [x] Two centering rings
-- [x] Launch lug
 - [x] Fire-resistant blanket
-
-### Initial Measurements
-- Total component mass:
-- Body tube diameter:
-- Booster length:
-- Payload-section length:
-- Motor-tube length:
-- Fin thickness:
 
