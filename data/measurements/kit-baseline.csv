@@ -1,5 +1,5 @@
 stage,component,measurement,value,unit,required_for,measurement_notes
-PRE-BUILD,booster_tube,length,5080,mm,OpenRocket external geometry,Measure only the slotted booster tube.
+PRE-BUILD,booster_tube,length,508,mm,OpenRocket external geometry,Measure only the slotted booster tube.
 PRE-BUILD,booster_tube,outside_diameter,66.8,mm,OpenRocket external geometry,Measure across the outside of the tube.
 PRE-BUILD,payload_tube,length,254,mm,OpenRocket external geometry,Measure only the 10-inch payload tube.
 PRE-BUILD,payload_tube,outside_diameter,66.8,mm,OpenRocket external geometry,Should match the booster tube; still verify it.
