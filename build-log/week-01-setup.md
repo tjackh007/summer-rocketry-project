@@ -25,29 +25,37 @@ Rocket ordered. Waiting for kit delivery before inventory and physical build ste
 - Saved an OpenRocket baseline screenshot.
 - Noted the imported-model body-diameter warning.
 
-## June 26, 2026  
+## June 27, 2026 – Kit Arrival and Inventory
+
+- LOC Graduator kit received
+- Photographed unopened box and all components
+- Checked components against the instructions
+- Inspected parts for visible damage
+- Completed initial dry fit
+- No adhesive applied
+  
 ## Kit Arrival and Inspection
 
 ### Package Condition
-- Delivery date:
-- Box condition:
-- Visible damage:
+- Delivery date: 06/27/2026
+- Box condition: Pristine
+- Visible damage: None
 
 ### Parts Inventory
-- [ ] 20-inch slotted booster
-- [ ] 10-inch payload section
-- [ ] Tube coupler
-- [ ] Bulkhead
-- [ ] Nose cone
-- [ ] 21-inch parachute
-- [ ] Two screw eyes
-- [ ] Kevlar shock cord mount
-- [ ] Elastic shock cord
-- [ ] 29 mm motor tube
-- [ ] Fin set
-- [ ] Two centering rings
-- [ ] Launch lug
-- [ ] Fire-resistant blanket
+- [x] 20-inch slotted booster
+- [x] 10-inch payload section
+- [x] Tube coupler
+- [x] Bulkhead
+- [x] Nose cone
+- [x] 21-inch parachute
+- [x] Two screw eyes
+- [x] Kevlar shock cord mount
+- [x] Elastic shock cord
+- [x] 29 mm motor tube
+- [x] Fin set
+- [x] Two centering rings
+- [x] Launch lug
+- [x] Fire-resistant blanket
 
 ### Initial Measurements
 - Total component mass:
@@ -57,8 +65,3 @@ Rocket ordered. Waiting for kit delivery before inventory and physical build ste
 - Motor-tube length:
 - Fin thickness:
 
-### Inspection Notes
-- Warped fins:
-- Crushed tubes:
-- Loose or damaged hardware:
-- Missing components:
