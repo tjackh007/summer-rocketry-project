@@ -6,11 +6,13 @@ This file will track the measured mass and center of gravity of the rocket durin
 
 ## Component Mass Table
 
-| Component | Mass |
+| Component | Mass (grams) |
 |---|---:|
-| Nose cone | TBD |
-| Body tube | TBD |
-| Fins | TBD |
+| Nose cone | 94 |
+| Body tube | 107 |
+| Payload Section | 45 |
+| Motor Tube | 11 |
+| Fins | 78 |
 | Motor mount | TBD |
 | Recovery system | TBD |
 | Total dry mass | TBD |
