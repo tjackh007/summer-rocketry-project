@@ -1,0 +1,6 @@
+simulation_id,scenario,motor,rail_exit_velocity_m_s,apogee_m,deployment_velocity_m_s,optimum_delay_s,max_velocity_m_s,max_acceleration_m_s2,time_to_apogee_s,flight_time_s,ground_hit_velocity_m_s,wind_m_s,notes
+SIM-01,Calm wind,Estes F15-4,12.1,216,7.11,4.72,53.5,35.3,7.99,39.4,6.95,0,Reference case
+SIM-02,Light wind,Estes F15-4,12.1,212,9.27,4.72,53.4,35.3,7.89,38.8,7.17,,Exact sensitivity wind retained in OpenRocket model
+SIM-03,Nominal wind,Estes F15-4,12.1,201,13.6,4.47,53.3,35.3,7.75,37.1,7.57,,Exact sensitivity wind retained in OpenRocket model
+SIM-04,High wind,Estes F15-4,12.1,184,17.8,4.17,53,35.3,7.58,34.6,8.67,,Conservative wind sensitivity case
+SIM-05,Launch day conditions,Estes F15-4,12.1,203,13,4.52,53.3,35.3,7.77,37.4,7.4,2.77,Hearne reconstruction; wind direction 175 deg; predicted final displacement about 3.38 m
