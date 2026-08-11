@@ -1,0 +1,17 @@
+parameter,value,unit,source_or_method,notes
+rocket_name,INSTINCT,,Project naming,LOC Graduator kit
+final_dry_mass,462,g,Scale measurement,Complete flight-ready rocket without motor/igniter; includes retainer cap
+dry_center_of_gravity,60.5,cm aft of nose tip,String-loop balance,Average of 5 independent trials
+overall_length,102,cm,OpenRocket/as-built geometry,Approximately 40 in
+maximum_airframe_diameter,6.68,cm,Pre-build measurement/model,
+center_of_pressure,81.2,cm aft of nose tip,OpenRocket final model,
+loaded_mass_F15_4,565,g,OpenRocket final configuration,
+loaded_CG_F15_4,66.5,cm aft of nose tip,OpenRocket final configuration,
+loaded_stability_F15_4,2.21,calibers,OpenRocket final configuration,
+rail_type,1010,,Physical launcher/model,Two rail buttons; no launch lug
+rail_button_spacing,25.4,cm,Physical measurement,10.00 in center-to-center
+usable_rail_length,2.75,m,Launch photo/video estimate,Physical rail approximately 10 ft
+motor_retainer,Estes 24020,,Manufacturer identification,29 mm screw-on retainer
+motor_retainer_mass,13.3,g,Manufacturer specification,Included in 462 g stage override
+parachute_diameter,21,in,Kit configuration,
+launch_site_elevation,87,m MSL,Launch-day reconstruction,Hearne launch site
