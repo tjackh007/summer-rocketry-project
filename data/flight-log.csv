@@ -1,0 +1,2 @@
+flight_id,date,site,motor,loaded_mass_g,loaded_CG_cm,rail,predicted_apogee_m,predicted_time_to_apogee_s,predicted_flight_time_s,predicted_final_displacement_m,observed_landing_distance_m,recovery,damage,notes
+FLT-001,8/8/2026,Hearne launch site / Hearne Municipal Airport,Estes F15-4,565,66.5,1010,203,7.77,37.4,3.38,6.1,Successful,None; light dirt only,"Clean near-vertical ascent; parachute deployed; landed about 20 ft from pad. No altimeter flown, so actual apogee was not measured."
