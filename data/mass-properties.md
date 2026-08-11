@@ -1,29 +1,28 @@
 # Mass Properties
 
-## Purpose
+## Final mass state
 
-This file will track the measured mass and center of gravity of the rocket during the project.
-
-## Component Mass Table
-
-| Component | Mass (grams) |
+| Configuration | Mass |
 |---|---:|
-| Nose cone | 94 |
-| Body tube | 107 |
-| Payload Section | 45 |
-| Motor Tube | 11 |
-| Fins | 78 |
-| Motor mount | TBD |
-| Recovery system | TBD |
-| Total dry mass | TBD |
+| Manufacturer OpenRocket baseline, no motor | 412 g |
+| Completed dry rocket, no motor | **462 g** |
+| OpenRocket with F15-4 | **565 g** |
 
-## Center of Gravity
+Mass growth from baseline to finished dry rocket:
 
-| Configuration | CG Location |
+**50 g / 12.1%**
+
+## Center of gravity
+
+| Configuration | CG from nose tip |
 |---|---:|
-| Without motor | TBD |
-| With selected motor | TBD |
+| Manufacturer baseline, no motor | 59.7 cm |
+| Final measured dry rocket | **60.5 cm** |
+| Final OpenRocket F15-4 loaded configuration | **66.5 cm** |
 
-## Notes
+The measured dry CG is the average of five independent string-balance trials.
 
-Measurements will be updated after the kit arrives and again after final assembly.
+## Center of pressure / stability
+
+- CP: 81.2 cm aft of nose tip
+- Loaded stability with F15-4: 2.21 calibers
