@@ -68,7 +68,7 @@ Complete
 
 **Independent aerospace engineering project: build, calibration, simulation, flight test, and post-flight analysis of a LOC Precision Graduator.**
 
-![Final OpenRocket model](simulations/INSTINCT-final-design-CG-CP.png)
+![Final OpenRocket model](simulations/exports/screenshots/INSTINCT-final-design-CG-CP.png)
 
 ## Project outcome
 
