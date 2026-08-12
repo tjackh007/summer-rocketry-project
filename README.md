@@ -138,7 +138,7 @@ Post-flight comparison + documented lessons learned
 | [`build-log/`](build-log/) | Reconstructed build journal from dated notes, photos, and project discussions |
 | [`data/`](data/) | Kit measurements, as-built values, simulation summary, raw launch-day export, flight log |
 | [`docs/`](docs/) | Engineering writeups, simulation analysis, flight report, lessons learned, portfolio summary |
-| [`openrocket/`](openrocket/) | Manufacturer baseline, final-model location, raw export, plots, screenshots |
+| [`simulations/`](simulations/) | Manufacturer baseline, final-model location, raw export, plots, screenshots |
 | [`photos/`](photos/) | Kit inventory plus folders for final build/launch photos |
 | [`flight/`](flight/) | Flight evidence notes and optional video location |
 | [`INSTINCT_project_tracker.xlsx`](INSTINCT_project_tracker.xlsx) | Final spreadsheet dashboard and engineering tracker |
