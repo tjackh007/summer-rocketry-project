@@ -149,7 +149,7 @@ Post-flight comparison + documented lessons learned
 | [`docs/`](docs/) | Engineering writeups, simulation analysis, flight report, lessons learned, portfolio summary |
 | [`simulations/`](simulations/) | Manufacturer baseline, final-model location, raw export, plots, screenshots |
 | [`photos/`](photos/) | Kit inventory plus folders for final build/launch photos |
-| [`flight/`](flight_videos/) | Flight evidence notes and video location |
+| [`flight_videos/`](flight_videos/) | Flight evidence notes and video location |
 
 ## Build log note
 
