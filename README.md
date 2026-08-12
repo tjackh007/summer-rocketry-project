@@ -116,7 +116,7 @@ The final calibrated model was run through calm, light, nominal, high-wind, and 
 
 ## Launch-day flight profile
 
-![Launch-day flight profile](simulations/F15-4_launch-day_flight-plot.png)
+![Launch-day flight profile](simulations/exports/plots/[F15-4]launch-day_flight-plot.png)
 
 The F15-4 simulation predicted ejection at about **7.45 s** and apogee at **7.77 s**, placing recovery deployment approximately **0.32 s before apogee**. The modeled optimum delay was **4.52 s**, reasonably close to the motor's fixed 4-second delay.
 
