@@ -4,6 +4,8 @@
 
 ***Rocket Code Name: "INSTINCT"***
 
+![INSTINCT artwork](photos/artwork/image0.png)
+
 ## Project Overview
 
 This repository documents an independent summer aerospace engineering project focused on the design, build, simulation, and planned launch of a beginner-level model rocket.
@@ -23,8 +25,6 @@ The goal of this project is to stay technically active over the summer, gain han
 ## Rocket Selected
 
 The selected rocket kit is a beginner-level LOC Graduator Precision rocket. The project will focus on safe assembly, simulation, and flight planning rather than custom motor or propellant development.
-
-![INSTINCT artwork](photos/artwork/image0.png)
 
 ## Tools and Software
 
