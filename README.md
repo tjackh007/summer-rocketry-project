@@ -4,7 +4,7 @@
 
 ***Rocket Code Name: "INSTINCT"***
 
-![INSTINCT artwork](photos/artwork/image0.png)
+![INSTINCT artwork](photos/artwork/cover_art.png)
 
 ## Project Overview
 
