@@ -167,7 +167,7 @@ This project used commercially manufactured hobby-rocketry components and motors
 2. [`build-log/README.md`](build-log/README.md)
 3. [`docs/as-built-configuration.md`](docs/as-built-configuration.md)
 4. [`docs/simulation-analysis.md`](docs/simulation-analysis.md)
-5. [`docs/flight-report.md`](docs/flight-report)
+5. [`docs/flight-report`](docs/flight-report)
 6. [`docs/post-flight-analysis.md`](docs/post-flight-analysis.md)
 7. [`docs/lessons-learned.md`](docs/lessons-learned.md)
 8. [`docs/portfolio-summary.md`](docs/portfolio-summary.md)
