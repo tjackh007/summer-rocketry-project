@@ -59,7 +59,7 @@ Rocket ordered. Repository and project documentation setup in progress.
 
 **Independent aerospace engineering project: build, calibration, simulation, flight test, and post-flight analysis of a LOC Precision Graduator.**
 
-![Final OpenRocket model](openrocket/exports/screenshots/INSTINCT-final-design-CG-CP.png)
+![Final OpenRocket model](simulations/INSTINCT-final-design-CG-CP.png)
 
 ## Project outcome
 
