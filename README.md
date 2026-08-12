@@ -1,7 +1,8 @@
 # Summer Rocketry Project
 
-## Mission Code Name "Never Tell Me the Odds"
-## Rocket Code Name "INSTINCT"
+***Mission Code Name: "Never Tell Me the Odds"***
+
+***Rocket Code Name: "INSTINCT"***
 
 ## Project Overview
 
