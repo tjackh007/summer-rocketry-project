@@ -46,7 +46,7 @@ Absolute nose-datum positions in the tracker are derived/approximate because the
 
 ## Motor retainer
 
-The retainer was identified as an Estes 29 mm screw-on retainer, model 24020.
+The retainer is an Estes 29 mm screw-on retainer, model 24020.
 
 - Published mass: 13.3 g
 - Published length: 2.96 cm
