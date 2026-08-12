@@ -23,17 +23,20 @@ The selected rocket kit is a beginner-level LOC Graduator Precision rocket. The 
 ## Tools and Software
 
 * OpenRocket
+* Visual Studio code 
 * GitHub
 * Digital scale
-* Ruler or measuring tape
-* Basic hobby tools
+* Ruler, measuring tape, protractor, calimeter
+* Basic hobby tools (ie. spray and acrylic paint, pen, stickers)
+* Epoxy and Wood Glue
 * Phone Camera for build documentation
 
 ## Project Deliverables
 
 * Rocket selection notes
 * OpenRocket simulation file
-* Motor comparison table
+* Wind Simulation Comparison Table
+* Altitude Plots
 * Mass and center of gravity measurements
 * Build log with photos
 * Launch readiness checklist
