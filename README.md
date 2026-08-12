@@ -42,7 +42,7 @@ The selected rocket kit is a beginner-level LOC Graduator Precision rocket. The 
 
 ## Current Status
 
-Rocket ordered. Repository and project documentation setup in progress.
+Complete
 
 ## Planned Timeline
 
