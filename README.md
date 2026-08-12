@@ -176,8 +176,6 @@ This project used commercially manufactured hobby-rocketry components and motors
 
 **Project status: COMPLETE / FLIGHT TESTED**
 
-One manual repository step remains: copy the final local OpenRocket file `LOC_Graduator_INSTINCT_as-built_v1.0.ork` into [`openrocket/final/`](openrocket/final/) before the final GitHub push.
-
 
 ## Safety Note
 
