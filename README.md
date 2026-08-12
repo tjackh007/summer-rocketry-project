@@ -1,5 +1,8 @@
 # Summer Rocketry Project
 
+## Mission Code Name "Never Tell Me the Odds"
+## Rocket Code Name "INSTINCT"
+
 ## Project Overview
 
 This repository documents an independent summer aerospace engineering project focused on the design, build, simulation, and planned launch of a beginner-level model rocket.
