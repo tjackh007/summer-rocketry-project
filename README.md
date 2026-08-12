@@ -102,7 +102,7 @@ The engineering focus was not just assembling the kit. The project closed the lo
 
 ## Wind sensitivity
 
-![Wind sensitivity results](simulations/F15-4_wind-sensitivity-results.png)
+![Wind sensitivity results](simulations/exports/screenshots/[F15-4]wind-sensitivity-results.png)
 
 The final calibrated model was run through calm, light, nominal, high-wind, and reconstructed launch-day conditions. The primary trend was a decrease in predicted apogee and an increase in deployment/landing velocity as wind increased.
 
