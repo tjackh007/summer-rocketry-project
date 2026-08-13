@@ -8,7 +8,7 @@
 
 ## Project Overview
 
-This repository documents an independent summer aerospace engineering project focused on the design, build, simulation, and planned launch of a beginner-level model rocket.
+This repository documents an independent summer aerospace engineering project focused on the design, build, simulation, flight test, and post-flight analysis of a beginner-level model rocket.
 
 The goal of this project is to stay technically active over the summer, gain hands-on aerospace experience, strengthen simulation and documentation skills, and create a project that can be discussed in future internship and engineering interviews.
 
