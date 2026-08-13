@@ -9,13 +9,23 @@ Compare the calibrated OpenRocket prediction with what the first real flight can
 | Metric | Predicted | Actual / observed | Interpretation |
 |---|---:|---:|---|
 | Apogee | 203 m | Not measured | No onboard altimeter; cannot quantify error |
-| Time to apogee | 7.77 s | Not measured reliably | Video may support future frame-by-frame estimate |
+| Time to apogee | 7.77 s | ~7.82 s from video timestamp analysis | +0.05 s difference (~0.6%); strong agreement within video measurement limitations |
+| Recovery deployment | ~7.45 s model event | Observed immediately before apogee | Qualitative agreement with predicted near-apogee deployment |
 | Maximum velocity | 53.3 m/s | Not measured | Simulation-only value |
 | Maximum acceleration | 35.3 m/s² | Not measured | Simulation-only value |
-| Recovery deployment | ~7.45 s model event | Parachute visibly deployed | Qualitative agreement |
 | Ground-hit velocity | 7.40 m/s | Not instrumented | Recovery was soft enough to cause no damage |
 | Final displacement | ~3.38 m | ~6.1 m estimate | Same order of magnitude; actual distance was not surveyed |
 | Structural outcome | Nominal model | No damage | Successful qualitative validation |
+
+## Video-Derived Flight Timing
+
+Post-flight review of the launch video was used to estimate the elapsed time from liftoff to apogee. Based on video timestamp analysis, the observed time to apogee was approximately **7.82 s**.
+
+The reconstructed launch-day OpenRocket model predicted apogee at **7.77 s**, producing a difference of approximately **0.05 s**, or about **0.6%** relative to the simulation prediction.
+
+The video also shows recovery-system deployment beginning immediately before apogee. This behavior is consistent with the OpenRocket launch-day model, which predicted motor ejection at approximately **7.45 s** and apogee at approximately **7.77 s**.
+
+Because this measurement was derived from video rather than onboard instrumentation, it should not be treated as equivalent to altimeter or flight-computer telemetry. However, it provides useful quantitative evidence that the modeled ascent timing closely matched the observed flight.
 
 ## What the flight supports
 
