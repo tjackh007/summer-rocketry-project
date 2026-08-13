@@ -1,6 +1,6 @@
 # Launch Photos
 
-Recommended additions:
+Additions:
 
 - rocket on the 1010 rail;
 - launch plume / ascent still;
