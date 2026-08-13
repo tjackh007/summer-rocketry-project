@@ -97,6 +97,8 @@ The engineering focus was not just assembling the kit. The project closed the lo
 | Maximum velocity | **53.3 m/s** |
 | Maximum acceleration | **35.3 m/s² (~3.6 g)** |
 | Predicted time to apogee | **7.77 s** |
+| Video-derived time to apogee | ~7.82 s |
+| Prediction vs. observation | +0.05 s / ~0.6% difference |
 | Predicted flight time | **37.4 s** |
 | Actual recovery | Successful, ~20 ft from pad |
 
