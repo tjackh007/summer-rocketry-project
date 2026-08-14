@@ -35,9 +35,8 @@ Completed work:
 - Inspected tubes, fins, motor mount, coupler, recovery system, and hardware for visible damage.
 - Recorded principal dimensions before sanding or adhesive could alter them.
 
-The pre-build measurement set is retained in:
-
-[`data/measurements/kit-baseline.csv`](data/measurements/kit-baseline.csv)
+The complete pre-build measurement set is retained in
+[`data/measurements/kit-baseline.csv`](../data/measurements/kit-baseline.csv).
 
 Representative measured geometry included:
 
