@@ -1,6 +1,22 @@
 # Flight Video Evidence
 
-Flight video from FLT-001 was retained as visual evidence for post-flight analysis.
+## FLT-001 — August 8, 2026
+
+Full flight video documenting the first flight of the LOC Graduator using an Estes F15-4 motor.
+
+[▶ Watch FLT-001 Flight Video on YouTube]([YOUR_YOUTUBE_URL](https://youtu.be/gZYhUH88pAA))
+
+### Video-derived observations
+
+- Successful liftoff and near-vertical ascent
+- Recovery deployment initiated immediately before apogee
+- Video-derived time to apogee: approximately 7.82 s
+- OpenRocket predicted time to apogee: 7.77 s
+- Prediction difference: approximately 0.05 s (~0.6%)
+- Successful parachute recovery
+- Landing approximately 20 ft from the launch pad
+
+The video was used as post-flight evidence and for timestamp-based flight timing analysis. No onboard altimeter or flight computer was carried.
 
 ## Video-Derived Measurements
 
