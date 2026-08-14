@@ -7,19 +7,15 @@
 | Work item | Status | Evidence |
 |---|---|---|
 | Project definition / rocket selection | Complete | `docs/project-overview.md` |
-| Manufacturer OpenRocket baseline | Complete | `openrocket/baseline/` |
-| Kit inventory / pre-build measurements | Complete | `photos/kit-inventory/`, `data/measurements/kit-baseline.csv` |
-| Physical build / finishing | Complete | Build log |
-| Motor retainer | Complete | Estes 29 mm model 24020 documented |
-| Two 1010 rail buttons | Complete | 10 in center-to-center; no launch lug |
-| Final dry mass | Complete | 462 g |
-| Final dry CG | Complete | 60.5 cm, 5-trial average |
-| As-built OpenRocket calibration | Complete | Final screenshots / local `.ork` |
-| F15-4 wind sensitivity | Complete | `data/simulations/simulation-summary.csv` |
-| Launch-day reconstruction | Complete | Raw export + plot |
-| Flight | Complete | August 8, 2026 |
-| Recovery | Complete | Successful; ~20 ft from pad; no damage |
-| Post-flight analysis | Complete | Qualitative due to no onboard altimeter |
+| Manufacturer OpenRocket baseline | Complete | `simulations/baseline/LOC_Graduator_manufacturer_baseline.ork` |
+| Kit inventory / pre-build measurements | Complete | `photos/Kit Inventory/`, `data/measurements/kit-baseline.csv` |
+| Physical build / finishing | Complete | `build-log/` |
+| Final dry CG | Complete | `data/measurements/center_of_gravity_measurements.csv` |
+| As-built OpenRocket calibration | Complete | `simulations/final_rocket/LOC_Graduator_INSTINCT_as-built_v1.0.ork` |
+| F15-4 wind sensitivity | Complete | `data/open_rocket/simulation-summary.csv` |
+| Launch-day reconstruction | Complete | `simulations/exports/` |
+| Flight | Complete | `docs/flight-report/FLT-001.md`, `flight_videos/README.md` |
+| Post-flight analysis | Complete | `docs/post-flight-analysis.md` |
 | Final GitHub documentation | Complete | This repository package |
 
 ## Manual publishing check
