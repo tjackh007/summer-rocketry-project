@@ -38,6 +38,11 @@ See [`data/measurements/center_of_gravity_measurements.csv`](data/measurements/c
 - Configuration: complete flight-ready rocket, no motor/igniter
 - Independent trials: **5**
 - Average CG: **60.5 cm aft of nose tip**
+- Measurement/readout uncertainty applied to each trial: **±0.1 cm**
+- Sample standard deviation: **0.77 cm**
+- Standard error of the mean: **0.34 cm**
+
+The ±0.1 cm value represents the assumed measurement resolution/reading uncertainty and is distinct from the observed trial-to-trial spread.
 
 This measured value replaced the OpenRocket-estimated dry CG through a stage-level mass/CG override.
 
