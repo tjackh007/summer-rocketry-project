@@ -28,6 +28,10 @@ The body-diameter discontinuity warning was informational. It was recorded rathe
 
 A small fit issue required a tape adjustment at the field. A complete pre-field assembly check — including motor/retainer/recovery/rail interface — is worth doing even when the rocket is “finished.”
 
-## 8. Instrumentation would improve the next iteration
+## 8. Flight video can provide useful validation even without onboard telemetry
 
-The project successfully validated launch and recovery qualitatively, but an altimeter would allow actual apogee and time-history data to be compared directly with OpenRocket.
+Although no altimeter or flight computer was carried, post-flight video timestamp analysis provided an estimated 7.82 s time from liftoff to apogee. The launch-day OpenRocket model predicted 7.77 s, a difference of approximately 0.05 s (~0.6%).
+
+Recovery-system deployment was also observed immediately before apogee, consistent with the model's predicted near-apogee deployment timing.
+
+This provided meaningful quantitative validation of ascent timing in addition to the qualitative observations of trajectory and recovery behavior. However, video analysis cannot replace onboard instrumentation for measurements such as actual apogee altitude, velocity, acceleration, or a complete flight time history. A future flight carrying an altimeter or flight computer would allow these parameters to be compared directly against the OpenRocket model.
