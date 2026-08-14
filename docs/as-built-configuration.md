@@ -30,9 +30,14 @@ An earlier 452 g measurement was rejected after noticing that the retainer cap h
 
 ## CG measurement
 
-The dry center of gravity was determined with a string-loop balance method. Five independent trials were performed and averaged.
+Five independent string-balance measurements produced a mean dry CG of **60.5 cm aft of the nose tip**.
 
-**Final dry CG: 60.5 cm aft of the nose tip.**
+- Measurement/readout uncertainty applied to each trial: **±0.1 cm**
+- Number of trials: **5**
+- Sample standard deviation: **0.77 cm**
+- Standard error of the mean: **0.34 cm**
+
+The ±0.1 cm value represents the assumed measurement resolution/reading uncertainty and is distinct from the observed trial-to-trial spread.
 
 ## Rail buttons
 
