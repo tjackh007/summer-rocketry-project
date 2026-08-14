@@ -22,7 +22,7 @@ The flight demonstrated a stable, near-vertical ascent, successful parachute dep
 
 ## Project Overview
 
-This repository documents an independent summer aerospace engineering project focused on the design, build, simulation, flight test, and post-flight analysis of a beginner-level model rocket.
+This repository documents an independent summer aerospace engineering project focused on the design, build, simulation, flight test, and post-flight analysis of a LOC Precision Graduator model rocket.
 
 The goal of this project is to stay technically active over the summer, gain hands-on aerospace experience, strengthen simulation and documentation skills, and create a project that can be discussed in future internship and engineering interviews.
 
@@ -42,14 +42,17 @@ The selected rocket kit is a beginner-level LOC Graduator Precision rocket. The 
 
 ## Tools and Software
 
-* OpenRocket
-* Visual Studio code 
-* GitHub
-* Digital scale
-* Ruler, measuring tape, protractor, calimeter
-* Basic hobby tools (ie. spray and acrylic paint, pen, stickers)
-* Epoxy and Wood Glue
-* Phone Camera for build documentation
+- OpenRocket
+- Visual Studio Code
+- Excel
+- GitHub
+- Digital scale
+- Ruler, measuring tape, protractor, and caliper
+- Basic hobby tools and finishing supplies
+- Epoxy and wood glue
+- Sand Paper and Primer
+- Spray and Acrylic paint
+- Phone and Professional camera for build and flight documentation
 
 ## Project Deliverables
 
@@ -67,7 +70,7 @@ The selected rocket kit is a beginner-level LOC Graduator Precision rocket. The 
 
 Complete
 
-## Planned Timeline
+## Project Timeline
 
 * Week 1: Repository setup, project objective, OpenRocket installation
 * Week 2: Initial simulation and rocket research
@@ -138,7 +141,7 @@ The F15-4 simulation predicted ejection at about 7.45 s and apogee at 7.77 s, pl
 
 Post-flight video timestamp analysis produced an observed time to apogee of approximately **7.82 s**, only **0.05 s (~0.6%)** later than the OpenRocket prediction. Recovery-system deployment was also visibly initiated immediately before apogee, consistent with the predicted near-apogee recovery timing.
 
-## Engineering workflow
+## Engineering Workflow
 
 ```text
 Manufacturer baseline
@@ -183,7 +186,7 @@ The physical project moved faster than the documentation. The build log was ther
 
 These limitations are documented rather than tuned away after the flight.
 
-## Safety
+## Safety Note
 
 This project used commercially manufactured hobby-rocketry components and motors. The flight was conducted at an organized launch site. No motor, propellant, igniter, or pyrotechnic material was manufactured as part of the project.
 
@@ -201,8 +204,3 @@ This project used commercially manufactured hobby-rocketry components and motors
 ## Repository status
 
 **Project status: COMPLETE / FLIGHT TESTED**
-
-
-## Safety Note
-
-This project uses commercially manufactured hobby rocketry components only. It does not involve making motors, propellant, igniters, or pyrotechnic materials.
