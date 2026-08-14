@@ -37,7 +37,7 @@ Completed work:
 
 The pre-build measurement set is retained in:
 
-`data/measurements/kit-baseline.csv`
+[`data/measurements/kit-baseline.csv'](data/measurements/kit-baseline.csv)
 
 Representative measured geometry included:
 
