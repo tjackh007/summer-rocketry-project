@@ -55,7 +55,7 @@ Measurements were taken before sanding, cutting, or applying adhesive.
 
 - All principal components measured and weighed
 - Measurements stored in `data/measurements/kit-baseline.csv`
-- Components weighed outwith digital scale
+- Components weighed out with digital scale
 - Components photographed with a ruler for scale
 - Damage or fit concerns: None observed
   
