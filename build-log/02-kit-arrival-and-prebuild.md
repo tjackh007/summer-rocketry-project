@@ -50,6 +50,36 @@ Representative measured geometry included:
 - 152 mm motor-mount tube
 - approximately 1016 mm overall dry-fit length
 
+
+Measurements were taken before sanding, cutting, or applying adhesive.
+
+- All principal components measured and weighed
+- Components weighed out with digital scale
+- Components photographed
+- Damage or fit concerns: None observed
+  
+## Kit Arrival and Inspection
+
+### Package Condition
+- Delivery date: 06/27/2026
+- Box condition: Pristine
+- Visible damage: None
+
+### Parts Inventory
+- [x] 20-inch slotted booster
+- [x] 10-inch payload section
+- [x] Tube coupler
+- [x] Bulkhead
+- [x] Nose cone
+- [x] 21-inch parachute
+- [x] Two screw eyes
+- [x] Kevlar shock cord mount
+- [x] Elastic shock cord
+- [x] 29 mm motor tube
+- [x] Fin set
+- [x] Two centering rings
+- [x] Fire-resistant blanket
+      
 ### Why this mattered
 
 This created a clean reference point for later comparison with the completed rocket. It also separated geometry measurements from the much less predictable final mass, which would increase due to adhesive, epoxy, finish, hardware, and paint.
