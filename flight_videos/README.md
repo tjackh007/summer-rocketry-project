@@ -4,7 +4,7 @@
 
 Full flight video documenting the first flight of the LOC Graduator using an Estes F15-4 motor.
 
-[▶ Watch FLT-001 Flight Video on YouTube]([YOUR_YOUTUBE_URL](https://youtu.be/gZYhUH88pAA))
+[▶ Watch FLT-001 Flight Video on YouTube](https://youtu.be/gZYhUH88pAA)
 
 ### Video-derived observations
 
