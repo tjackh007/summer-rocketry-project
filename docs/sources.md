@@ -21,11 +21,11 @@ The project preserves the original manufacturer-derived `.ork` baseline separate
 
 - `data/measurements/kit-baseline.csv`
 - `data/measurements/as-built-summary.csv`
-- `data/simulations/simulation-summary.csv`
-- `openrocket/exports/data/F15-4_launch-day_conditions.csv`
-- `openrocket/exports/plots/F15-4_launch-day_flight-profile.png`
-- `openrocket/exports/screenshots/INSTINCT-final-design-CG-CP.png`
-- `openrocket/exports/screenshots/F15-4_wind-sensitivity-results.png`
+- `data/open_ricket/simulation-summary.csv`
+- `simulations/exports/data/F15-4_launch-day_conditions.csv`
+- `simulations/exports/plots/F15-4_launch-day_flight-profile.png`
+- `simulations/exports/screenshots/INSTINCT-final-design-CG-CP.png`
+- `simulations/exports/screenshots/F15-4_wind-sensitivity-results.png`
 
 ## Evidence hierarchy
 
