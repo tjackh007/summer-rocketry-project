@@ -19,13 +19,17 @@ The project preserves the original manufacturer-derived `.ork` baseline separate
 
 ## Project evidence
 
-- `data/measurements/kit-baseline.csv`
-- `data/measurements/as-built-summary.csv`
-- `data/open_ricket/simulation-summary.csv`
-- `simulations/exports/data/F15-4_launch-day_conditions.csv`
-- `simulations/exports/plots/[F15-4]_launch-day_flight-profile.png`
-- `simulations/exports/screenshots/INSTINCT-final-design-CG-CP.png`
-- `simulations/exports/screenshots/[F15-4]_wind-sensitivity-results.png`
+- [`data/measurements/kit-baseline.csv`](../data/measurements/kit-baseline.csv)
+- [`data/measurements/as-built-summary.csv`](../data/measurements/as-built-summary.csv)
+- [`data/measurements/center_of_gravity_measurements.csv`](../data/measurements/center_of_gravity_measurements.csv)
+- [`data/open_rocket/simulation-summary.csv`](../data/open_rocket/simulation-summary.csv)
+- [`simulations/baseline/LOC_Graduator_manufacturer_baseline.ork`](../simulations/baseline/LOC_Graduator_manufacturer_baseline.ork)
+- [`simulations/final_rocket/LOC_Graduator_INSTINCT_as-built_v1.0.ork`](../simulations/final_rocket/LOC_Graduator_INSTINCT_as-built_v1.0.ork)
+- [`simulations/exports/data/F15-4_launch-day_conditions.csv`](../simulations/exports/data/F15-4_launch-day_conditions.csv)
+- [`simulations/exports/plots/[F15-4]launch-day_flight-plot.png`](../simulations/exports/plots/%5BF15-4%5Dlaunch-day_flight-plot.png)
+- [`simulations/exports/screenshots/INSTINCT-final-design-CG-CP.png`](../simulations/exports/screenshots/INSTINCT-final-design-CG-CP.png)
+- [`simulations/exports/screenshots/[F15-4]wind-sensitivity-results.png`](../simulations/exports/screenshots/%5BF15-4%5Dwind-sensitivity-results.png)
+- [`flight_videos/README.md`](../flight_videos/README.md)
 
 ## Evidence hierarchy
 
