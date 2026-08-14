@@ -56,11 +56,10 @@ The final simulations retained one informational message:
 
 The warning was documented rather than eliminated by changing geometry solely to satisfy the software.
 
-## Raw data
+## Raw Data
 
-The launch-day time history is retained in both spreadsheet and CSV form:
+The launch-day time history is retained as a CSV export:
 
-- `openrocket/exports/data/F15-4_launch-day_conditions.xlsx`
-- `openrocket/exports/data/F15-4_launch-day_conditions.csv`
+[`simulations/exports/data/F15-4_launch-day_conditions.csv`](../simulations/exports/data/F15-4_launch-day_conditions.csv)
 
-The CSV contains 356 simulated data points and 14 exported variables, including altitude, velocity, acceleration, lateral motion, angle of attack, CG location, stability, and wind.
+The CSV contains the simulated flight time history used for post-flight analysis, including altitude, velocity, acceleration, lateral motion, angle of attack, CG location, stability, and wind variables.
