@@ -32,7 +32,8 @@ This was one of the most useful quantitative lessons of the project: a stock mod
 ### Center of gravity
 
 The dry CG was measured using a string-loop balance method.
-See data/measurements/center_of_gravity_measurements.csv.
+
+See [`data/measurements/center_of_gravity_measurements.csv`](data/measurements/center_of_gravity_measurements.csv)
 
 - Configuration: complete flight-ready rocket, no motor/igniter
 - Independent trials: **5**
