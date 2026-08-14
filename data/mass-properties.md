@@ -20,7 +20,14 @@ Mass growth from baseline to finished dry rocket:
 | Final measured dry rocket | **60.5 cm** |
 | Final OpenRocket F15-4 loaded configuration | **66.5 cm** |
 
-The measured dry CG is the average of five independent string-balance trials.
+Five independent string-balance measurements produced a mean dry CG of **60.5 cm aft of the nose tip**.
+
+- Measurement/readout uncertainty applied to each trial: **±0.1 cm**
+- Number of trials: **5**
+- Sample standard deviation: **0.77 cm**
+- Standard error of the mean: **0.34 cm**
+
+The ±0.1 cm value represents the assumed measurement resolution/reading uncertainty and is distinct from the observed trial-to-trial spread.
 
 ## Center of pressure / stability
 
