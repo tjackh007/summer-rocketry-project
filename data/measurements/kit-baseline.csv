@@ -15,5 +15,5 @@ PRE-BUILD,motor_mount_tube,length,152,mm,OpenRocket internal geometry,Measure th
 PRE-BUILD,motor_mount_tube,outside_diameter,30,mm,Motor compatibility check,Verify the nominal 29 mm mount.
 PRE-BUILD,parachute,diameter,535,mm,OpenRocket descent simulation,"Measure fully opened, straight across the canopy."
 PRE-BUILD,complete_rocket_dry_fit,overall_length,1016,mm,Geometry verification,"Dry-fit booster, payload tube, and nose cone; measure aft end to nose tip."
-POST-BUILD,finished_rocket_no_motor,dry_mass,,g,OpenRocket mass override,"Include paint, adhesive, recovery system, and all installed hardware; exclude motor."
-POST-BUILD,finished_rocket_no_motor,center_of_gravity_from_nose_tip,,mm,OpenRocket CG override,Balance the complete flight-ready rocket without a motor and measure back from the nose tip.
+POST-BUILD,finished_rocket_no_motor,dry_mass,462,g,OpenRocket mass override,"Include paint, adhesive, recovery system, and all installed hardware; exclude motor."
+POST-BUILD,finished_rocket_no_motor,center_of_gravity_from_nose_tip,605,mm,OpenRocket CG override,Balance the complete flight-ready rocket without a motor and measure back from the nose tip.
