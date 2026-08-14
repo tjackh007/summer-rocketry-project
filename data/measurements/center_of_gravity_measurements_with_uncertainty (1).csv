@@ -1,0 +1,13 @@
+record_type,trial_or_metric,value_cm,measurement_uncertainty_cm,lower_bound_cm,upper_bound_cm,deviation_from_mean_cm,notes
+measurement,Trial 1,60.7,0.1,60.6,60.8,0.2,CG measured from nose tip
+measurement,Trial 2,60.9,0.1,60.8,61,0.4,CG measured from nose tip
+measurement,Trial 3,61.2,0.1,61.1,61.3,0.7,CG measured from nose tip
+measurement,Trial 4,59.2,0.1,59.1,59.3,-1.3,CG measured from nose tip
+measurement,Trial 5,60.5,0.1,60.4,60.6,0,CG measured from nose tip
+summary,Mean,60.5,0.1,60.4,60.6,0,Reported CG result; measurement uncertainty convention ±0.1 cm
+summary,Sample standard deviation,0.77,,,,,Observed trial-to-trial repeatability/spread
+summary,Standard error of mean,0.34,,,,,Calculated from sample standard deviation / sqrt(n)
+summary,Minimum,59.2,,,,,
+summary,Maximum,61.2,,,,,
+summary,Range,2,,,,,
+summary,Number of trials,5,,,,,
