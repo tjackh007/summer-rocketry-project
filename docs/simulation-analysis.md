@@ -22,7 +22,8 @@ The sensitivity exercise intentionally varies wind while holding the vehicle con
 | High wind | 12.1 m/s | 184 m | 17.8 m/s | 4.17 s | 53.0 m/s | 35.3 m/s² | 7.58 s | 34.6 s | 8.67 m/s |
 | Launch day | 12.1 m/s | 203 m | 13.0 m/s | 4.52 s | 53.3 m/s | 35.3 m/s² | 7.77 s | 37.4 s | 7.40 m/s |
 
-![Wind sensitivity results](simulations/exports/screenshots/[F15-4]wind-sensitivity-results.png)
+![Wind sensitivity results](/simulations/exports/screenshots/%5BF15-4%5Dwind-sensitivity-results.png)
+
 
 ## Interpretation
 
