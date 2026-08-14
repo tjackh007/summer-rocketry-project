@@ -25,7 +25,7 @@ The project focused on practical questions rather than merely completing the kit
 3. Is the finished vehicle stable with the intended motor?
 4. Is the launch rail long enough to achieve a reasonable rail-exit velocity?
 5. How sensitive are apogee and recovery conditions to wind?
-6. Does the real flight qualitatively agree with the calibrated model?
+6. Does the observed flight behavior and video-derived ascent timing agree with the calibrated model?
 
 ## Definition of success
 
