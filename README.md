@@ -6,6 +6,20 @@
 
 ![INSTINCT artwork](photos/artwork/cover_art.png)
 
+## Flight Test Video
+
+The rocket completed its first successful flight on **August 8, 2026**, using an Estes F15-4 motor.
+
+[![Watch the FLT-001 Flight Test](https://img.youtube.com/vi/gZYhUH88pAA/hqdefault.jpg)](https://youtu.be/gZYhUH88pAA)
+
+**[▶ Watch the full FLT-001 flight video](https://youtu.be/gZYhUH88pAA)**
+
+Post-flight video timestamp analysis measured approximately **7.82 s from liftoff to apogee**, compared with the OpenRocket prediction of **7.77 s**, a difference of approximately **0.05 s (~0.6%)**.
+
+Recovery-system deployment was observed immediately before apogee, consistent with the launch-day simulation, which predicted recovery deployment near apogee.
+
+The flight demonstrated a stable, near-vertical ascent, successful parachute deployment, and recovery approximately **20 ft from the launch pad**.
+
 ## Project Overview
 
 This repository documents an independent summer aerospace engineering project focused on the design, build, simulation, flight test, and post-flight analysis of a beginner-level model rocket.
