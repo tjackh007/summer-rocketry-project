@@ -3,7 +3,7 @@
 
 - **Manufacturer:** LOC Precision
 - **Rocket:** Graduator PK-16
-- **Official build instructions:** [`docs/project-overview.md`](docs/project-overview.md)
+- **Official build instructions:** [`Official Instructions PDF`](photos/build/PK-16-Graduator_Instructions.pdf)
 
 The manufacturer instructions will be used as the primary assembly reference.
 Any modifications, measurements, or deviations will be documented in the build log.
