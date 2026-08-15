@@ -4,7 +4,7 @@
 
 - LOC Precision Graduator product page: https://locprecision.com/products/graduator
 - LOC entry-level rocket collection retained in project source: https://locprecision.com/collections/rockets-skill-level-entry
-- LOC Graduator instructions: https://cdn.shopify.com/s/files/1/0568/7489/3503/files/PK-16.pdf
+- LOC Graduator instructions: [https://cdn.shopify.com/s/files/1/0568/7489/3503/files/PK-16.pdf](https://cdn.shopify.com/s/files/1/0568/7489/3503/files/PK-16-Graduator.pdf?v=1623763227)
 
 ## OpenRocket
 
