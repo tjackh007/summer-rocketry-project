@@ -68,4 +68,4 @@ The final OpenRocket model displays:
 - CP: **81.2 cm aft of nose**
 - Stability: **2.21 calibers**
 
-![Final model](../openrocket/exports/screenshots/INSTINCT-final-design-CG-CP.png)
+![Final model](../simulations/exports/screenshots/INSTINCT-final-design-CG-CP.png)
